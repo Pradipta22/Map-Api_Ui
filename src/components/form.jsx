@@ -32,10 +32,10 @@ const Form = () => {
     }
 
     return (<div className="float">
-        <Card title="Search Location">
+        <Card title="Search Location" style={{ background: "#0099cc", textAlign: 'center', }}>
             <Select
                 defaultValue={selected}
-                style={{ width: 150, marginRight: 10 }}
+                style={{ width: 150, marginRight: 10 ,}}
                 options={options}
                 onChange={(value) => setSelected(value)}
             />
