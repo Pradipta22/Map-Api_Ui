@@ -10,7 +10,7 @@ import {
 import { Layout, Menu, theme, Button, Dropdown } from 'antd';
 import Form from './form';
 import Map from './osm';
-import Logo from '../img/darkmap.jpg';
+// import Logo from '../img/darkmap.jpg';
 
 
 const { Header, Sider: Slider, Content, Footer } = Layout;
