@@ -7,21 +7,21 @@
 #Installation:-
 --
 To install the project, follow these steps:
-
-Clone the repository.
+ Clone the repository.
 --Install the dependencies using npm install.
 --Set up a Geoapify API key.
 --Start the project using npm start.
 
 #Usage:
-
+--
 --To use the project, follow these steps:
-
   --Open the web application in a browser.
 --Use the search bar to search between India,United Kingdom and United States.
+
+
 #Credits:
 --
 This project was created by PRADIPTA PALEI❤️.
-
+--
   
 
