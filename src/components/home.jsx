@@ -10,7 +10,7 @@ import {
 import { Layout, Menu, theme, Button, Dropdown } from 'antd';
 import Form from './form';
 import Map from './osm';
-// import Logo from '../img/darkmap.jpg';
+import Logo from '../img/darkmap.jpg';
 
 
 const { Header, Sider: Slider, Content, Footer } = Layout;
@@ -70,10 +70,10 @@ const Home = () => {
                     <p
                     style={{ color: "#00cc7a", fontSize: "40px",marginTop: "35px",fontWeight: "400px"}}
                     >MAPUP
-                    {/* <img src={Logo} className="logo" 
+                    <img src={Logo} className="logo" 
                     width= "69px"
                     height= "60px"
-                    />*/}  </p> 
+                    />  </p> 
                     <section>
                         {loggedIn ? <Dropdown menu={{items}} placement="bottomLeft">
                             <Button>
