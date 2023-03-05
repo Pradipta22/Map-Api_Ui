@@ -1,8 +1,11 @@
 #Map-Api-UI
 --
-#Project Description:-
+#Project Description:
+--
  The React Map Api Project is a web application that allows users to interact with a map using the Geoapify API.The project uses React components and hooks to create      a dynamic user interface that allows a user to search for the location
+ 
 #Installation:-
+--
 To install the project, follow these steps:
 
 Clone the repository.
